@@ -3,8 +3,8 @@
 - 🌱 I’m MCA graduated
 - 💞️ I’m looking for a job
 - 📫 How to reach me nagarajanmariappan2@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ eager to learn easily and quickly...
+- 🌟https://www.linkedin.com/in/nagarajan-m-b40509243
 
 <!---
 Rajan301101/Rajan301101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
