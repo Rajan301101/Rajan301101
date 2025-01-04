@@ -1,4 +1,4 @@
-il- 👋 Hi, I’m @Nagarajan M
+- 👋 Hi, I’m @Nagarajan M
 - 👀 I’m interested in python developer 
 - 🌱 I’m MCA graduated
 - 💞️ I’m looking for a job
